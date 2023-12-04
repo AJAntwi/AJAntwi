@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 * 🌱 I am AWS and Azure certified
 * 🔭 I’m currently learning GCP and python
 * 🔭 I like to explore new concepts and tools in cloud devops and security in my spare time
-* 🤔 I’m looking for help with getting started in Cloud Security
+* 🤔 I’m looking to get started in Cloud Security
 * 😄 I love to watch anime sometimes and learn new languages on ![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white) in my spare time
 * ⚡ Fun fact: I pivotted from business into Tech 😄
 <br>
