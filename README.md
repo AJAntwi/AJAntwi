@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there, I'm Augustine!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h1 align="center">Hi there, I'm Augustine! Welcome to my Github<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 <img align='right' src="https://acegif.com/wp-content/uploads/gifs/hello-2.gif" width="200">
 
 ## About me
 
-* 😄 Love working in cloud and would love a role in Cloud DevOps or Cloud Engineering
+* 😄 Love working in cloud and would love a role in Cloud Engineering
 * 👯 Looking to collaborate on all things cloud
 * 🌱 I am AWS and Azure certified
-* 🔭 I’m currently learning GCP and python
+* 🔭 I’m currently learning Python
 * 🔭 I like to explore new concepts and tools in cloud devops and security in my spare time
 * 🤔 I’m looking to get started in Cloud Security
 * 😄 I love to watch anime sometimes and learn new languages on ![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white) in my spare time
@@ -37,13 +37,13 @@ Here are some ideas to get you started:
 ![Yaml](https://img.shields.io/badge/yaml-%2338B2AC.svg?style=for-the-badge&logo=yaml-css&logoColor=white)
 ![CI/CD-pipeline](https://img.shields.io/badge/ci/cd-pipeline-%23ED8B00.svg?style=for-the-badge&logo=ci/cd-pipeline&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![prometheus](https://img.shields.io/badge/prometheus-%23013243.svg?style=for-the-badge&logo=prometheus&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Virtualization](https://img.shields.io/badge/virtualization-%23ED8B00.svg?style=for-the-badge&logo=virtualization&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-hotpink.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 
 <br>
@@ -57,6 +57,9 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![VMWare](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
+![prometheus](https://img.shields.io/badge/prometheus-%23013243.svg?style=for-the-badge&logo=prometheus&logoColor=white)
+
+
 
 <br>
 
