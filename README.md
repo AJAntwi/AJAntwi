@@ -15,19 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there, I'm Augustine! Welcome to my Github<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h1 align="center">Welcome to Augustine's GitHub Profile! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 <img align='right' src="https://acegif.com/wp-content/uploads/gifs/hello-2.gif" width="200">
 
-## About me
 
-* 😄 Love working in cloud and would love a role in Cloud Engineering
-* 👯 Looking to collaborate on all things cloud
-* 🌱 I am AWS and Azure certified
-* 🔭 I’m currently learning Python
-* 🔭 I like to explore new concepts and tools in cloud devops and security in my spare time
-* 🤔 I’m looking to get started in Cloud Security
-* 😄 I love to watch anime sometimes and learn new languages on ![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white) in my spare time
-* ⚡ Fun fact: I pivotted from business into Tech 😄
+I am Augustine, a dedicated student at Seneca College studying Cloud Architecture and Administration, and a passionate Cloud Engineer with a background in business. My transition into the tech world has been an exciting and enriching journey. I specialize in cloud technologies and am committed to building a strong foundation in cloud engineering. I am always eager to explore new concepts in cloud devops and security, both through my academic studies and personal projects. Here on GitHub, I share my work, collaborate with other tech enthusiasts, and contribute to the tech community. My goal is to blend my academic knowledge with practical experiences to make a meaningful impact in the world of cloud computing.
+
+## About me
+* 🎓 Currently studying Cloud Architecture and Administration at Seneca College.
+* 🌟 Eager to learn about cloud computing, devops, and cloud security.
+* 🌱 Enhancing my skills in Python and other cloud-related technologies.
+* 🔭 I am AWS and Azure certified
+* 👯 Looking for opportunities to collaborate on cloud projects and learn from experienced professionals.
+* 🤔 Seeking mentorship and guidance in cloud computing and cloud security.
+* 📖 In my free time, I enjoy exploring new technologies, watching anime, and learning new languages on Duolingo.
+* ⚡ I am enthusiastic about making a positive impact in the tech world as I transition from academia to a professional career.
+
 <br>
 
 ## Tech Stack 🚀
